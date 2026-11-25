@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" width="400" height="320">
+  <rect width="400" height="320" fill="#ffffff"/>
+  <!-- Shoulders / Suit Jacket -->
+  <path d="M50 320 C58 232, 112 204, 200 204 C288 204, 342 232, 350 320 Z" fill="#324663"/>
+  <!-- Shirt -->
+  <polygon points="164,205 236,205 200,315" fill="#9cd2de"/>
+  <!-- Suit Lapels -->
+  <polygon points="152,205 178,205 200,315 162,285" fill="#26374f"/>
+  <polygon points="248,205 222,205 200,315 238,285" fill="#26374f"/>
+  <!-- Neck -->
+  <rect x="176" y="162" width="48" height="48" rx="16" fill="#ebc0a4"/>
+  <!-- Head -->
+  <ellipse cx="200" cy="114" rx="52" ry="62" fill="#f3cbb0"/>
+  <!-- Hair -->
+  <path d="M145 108 C142 52, 178 34, 212 36 C250 38, 264 68, 256 108 C245 78, 220 68, 196 72 C174 76, 158 88, 145 108 Z" fill="#2b211c"/>
+  <!-- Eyes & Eyebrows -->
+  <path d="M168 98 Q178 93 188 97" fill="none" stroke="#2b211c" stroke-width="3" stroke-linecap="round"/>
+  <path d="M210 97 Q220 93 230 98" fill="none" stroke="#2b211c" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="178" cy="109" r="4" fill="#231f20"/>
+  <circle cx="220" cy="109" r="4" fill="#231f20"/>
+  <!-- Nose & Smile -->
+  <path d="M199 112 Q196 125 202 128" fill="none" stroke="#d19d7e" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M184 142 Q200 156 216 142 Z" fill="#ffffff" stroke="#b97265" stroke-width="2"/>
+</svg>

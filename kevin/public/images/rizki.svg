@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" width="400" height="320">
+  <rect width="400" height="320" fill="#ffffff"/>
+  <!-- Shoulders / Olive Hoodie -->
+  <path d="M55 320 C60 245 105 215 200 215 C295 215 340 245 345 320 Z" fill="#5b6147"/>
+  <!-- Hoodie collar & drawstrings -->
+  <path d="M135 218 Q200 265 265 218 Q235 200 200 205 Q165 200 135 218 Z" fill="#494e38"/>
+  <path d="M178 242 L176 292" stroke="#3c402d" stroke-width="4" stroke-linecap="round"/>
+  <path d="M222 242 L224 292" stroke="#3c402d" stroke-width="4" stroke-linecap="round"/>
+  <!-- Neck -->
+  <rect x="176" y="175" width="48" height="45" rx="16" fill="#d9a581"/>
+  <!-- Head -->
+  <ellipse cx="200" cy="128" rx="48" ry="58" fill="#e5b38f"/>
+  <!-- Hair -->
+  <path d="M150 118 C148 72 178 52 210 54 C242 56 254 82 250 116 C244 92 225 84 202 86 C178 88 160 100 150 118 Z" fill="#1e1e24"/>
+  <!-- Eyes & Brows -->
+  <path d="M174 114 Q183 109 192 113" fill="none" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+  <path d="M208 113 Q217 109 226 114" fill="none" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="183" cy="124" r="3.5" fill="#222"/>
+  <circle cx="217" cy="124" r="3.5" fill="#222"/>
+  <!-- Nose & Mouth -->
+  <path d="M199 128 L196 141 L204 142" fill="none" stroke="#c38b66" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="200" cy="158" rx="10" ry="5" fill="#b76e66"/>
+</svg>

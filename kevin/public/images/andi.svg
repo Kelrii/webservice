@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" width="400" height="320">
+  <rect width="400" height="320" fill="#ffffff"/>
+  <!-- Navy Blazer & Light Blue Shirt -->
+  <path d="M55 320 C62 242 110 212 200 212 C290 212 338 242 345 320 Z" fill="#2c446e"/>
+  <!-- Inner white t-shirt & light blue collared shirt -->
+  <polygon points="155,215 245,215 218,320 182,320" fill="#8cc0d8"/>
+  <polygon points="178,238 222,238 212,320 188,320" fill="#f8fafc"/>
+  <!-- Blazer lapels -->
+  <polygon points="155,215 186,295 162,272 138,232" fill="#223659"/>
+  <polygon points="245,215 214,295 238,272 262,232" fill="#223659"/>
+  <!-- Neck -->
+  <rect x="176" y="172" width="48" height="46" rx="16" fill="#efc3a4"/>
+  <!-- Head -->
+  <ellipse cx="200" cy="124" rx="46" ry="56" fill="#f5ccb0"/>
+  <!-- Hair -->
+  <path d="M150 116 C146 66 176 44 206 46 C240 48 256 76 250 116 C242 96 226 84 202 88 C184 91 164 98 150 116 Z" fill="#231c18"/>
+  <!-- Eyes & Brows -->
+  <path d="M174 112 Q183 108 192 112" fill="none" stroke="#231c18" stroke-width="3" stroke-linecap="round"/>
+  <path d="M208 112 Q217 108 226 112" fill="none" stroke="#231c18" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="183" cy="122" r="3.5" fill="#231c18"/>
+  <circle cx="217" cy="122" r="3.5" fill="#231c18"/>
+  <!-- Smile -->
+  <path d="M185 150 Q200 164 215 150" fill="#ffffff" stroke="#c87d68" stroke-width="2.2" stroke-linecap="round"/>
+</svg>
